@@ -1,0 +1,10 @@
+name: FalatiaEmotesPlugin
+version: '${version}'
+main: org.falatia.emotes.plugin.FalatiaEmotesPlugin
+api-version: '26.3'
+author: FalatiaProject
+description: Плагін для синхронізації емоцій між сервером і клієнтською частиною.
+permissions:
+  falatia.emotes.admin:
+    description: Перезавантаження налаштувань і серверних емоцій
+    default: op

@@ -1,0 +1,12 @@
+# Falatia Emotes (Paper plugin)
+
+# Ввімкнення синхронізації емоцій між гравцями
+enabled: true
+
+# Розмір буферу емоцій які передаються гравцям (MB)
+cache-mb: 16
+
+# Скільки нових емоцій гравець може відправити за хвилину на сервер.
+uploads-per-minute: 20
+
+# Серверні емоції - файли в plugins/FalatiaEmotesPlugin/emotes/
